@@ -8,6 +8,7 @@
 
 #include "LuaObj.h"
 #include "lua.hpp"
+#include "lauxlib.h"
 #include <sstream>
 
 #pragma mark Helpers
